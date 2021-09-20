@@ -1,10 +1,6 @@
 ## [Agile Software Development](https://www.agilealliance.org/agile101/)
-* A method of developing software that follows the [12 agile principles](https://agilemanifesto.org/principles.html).
-
-## [Agile Principles](https://agilemanifesto.org/principles.html)
-* The foundational principles that every agile framework strives to follow.
-* As mentioned in the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/) itself, these principles direct teams to focus more on the people and output of the project rather than on the processes, management or methods used in the project. 
-* Teams following these principles are usually self-organized, collaborative, and cross-functional.
+* A method of developing software that follows the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/) and the [12 Agile Principles](https://agilemanifesto.org/principles.html).
+* Instead of focusing on processes and procedures, Agile emphasizes that the people creating the software are more important, allowing them to become self-organized, collaborative, and cross-functional teams.
 
 ## Agile Frameworks
 [XP / Extreme Programming](https://www.agilealliance.org/glossary/xp/)
