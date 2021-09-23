@@ -1,7 +1,7 @@
 # 𝗧𝗵𝗲 𝗔𝗰𝘁𝗶𝗼𝗻 𝗣𝗿𝗶𝗼𝗿𝗶𝘁𝘆 𝗠𝗮𝘁𝗿𝗶𝘅 🏆
 A diagram that shows you which tasks to focus on, and in which order.
 
-Separate the tasks according to:
+Separate the tasks according to:  
 🏰 **Quick Wins** (high impact, low effort) - Gives the best return for effort.  
 🏔️ **Major Projects** (high impact, high effort) - Gives good returns, but they are time-consuming.  
 ⛺ **Fill-ins** (low impact, low effort) - Automate, delegate, defer, or drop these tasks.  
