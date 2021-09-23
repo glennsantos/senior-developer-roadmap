@@ -12,7 +12,8 @@ People typically classify these boxes as follows:
 1. Plan ahead for major projects so you can make progress on them. Alternatively, you can slice these up into smaller quick wins.
 2. Whether they are quick wins or major projects, focus on the work that will provide the greatest return versus the effort. This might mean foregoing some quick wins over getting major projects started as soon as possible.
 
-[![](action-priority-matrix-1.png)](https://www.productplan.com/glossary/action-priority-matrix/)  
+[![](action-priority-matrix-1.png)](https://www.productplan.com/glossary/action-priority-matrix/)
+
 *image courtesy of Product Plan blog*
 
 References:
