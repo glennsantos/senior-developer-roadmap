@@ -2,11 +2,11 @@
 
 * A diagram that shows you which tasks to focus on, and in which order.
 
-People typically classify these boxes as follows:
-🏰 **Quick Wins** (high impact, low effort) - Gives the best return for effort.
-🏔️ **Major Projects** (high impact, high effort) - Gives good returns, but they are time-consuming.
-⛺ **Fill-ins** (low impact, low effort) - Drop them or delegate.
-🏚️ **Thankless Tasks** (low impact, high effort) - Avoid these activities.
+People typically classify these boxes as follows:  
+🏰 **Quick Wins** (high impact, low effort) - Gives the best return for effort.  
+🏔️ **Major Projects** (high impact, high effort) - Gives good returns, but they are time-consuming.  
+⛺ **Fill-ins** (low impact, low effort) - Drop them or delegate.  
+🏚️ **Thankless Tasks** (low impact, high effort) - Avoid these activities.  
 
 ## Tips:
 1. Plan ahead for major projects so you can make progress on them. Alternatively, you can slice these up into smaller quick wins.
