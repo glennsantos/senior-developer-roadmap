@@ -9,6 +9,10 @@ If you prefer something actionable, [jump to the checklist version here](https:/
 
 We also have a mentorship program where we help developers become leaders. [Come join us](https://tally.so/r/3leK5w)!
 
+More about me:
+- [LinkedIn](https://www.linkedin.com/in/glennsantos/)
+- [glennsantos.com](https://glennsantos.com)
+
 ### Credits:
 - [Kamran Ahmed](https://github.com/kamranahmedse) for his work on [roadmap.sh](https://roadmap.sh/), upon which this roadmap is built upon
 - Mentors in our program who gave feedback: [Jesse Panganiban](https://github.com/thejpanganiban), [Renz Rollon](https://github.com/renzrollon), [Ben Sarmiento](https://github.com/yowmamasita) & [Darwin Pasco](https://github.com/darwin25)
