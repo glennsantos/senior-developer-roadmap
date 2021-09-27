@@ -1,11 +1,11 @@
-## Product Requirements Template
+## 📦 Product Requirements Template
 
 The PRT helps everyone in the team have a good understanding of:
 
-1. The customers the app will serve.
-2. The customer problem it solves.
-3. The actual solution to be implemented.
-4. The metrics used to determine if the solution succeeded in solving the problem.
+1.👪 The 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 the app will serve.  
+2. 🚧 The customer 𝗽𝗿𝗼𝗯𝗹𝗲𝗺 it solves.  
+3. 🏗️ The actual 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻 to be implemented.  
+4. 💯 The 𝗺𝗲𝘁𝗿𝗶𝗰𝘀 used to determine if the solution succeeded in solving the problem.  
 
 In this way, everyone in the team will know how each piece of code fits into the over all solution. Each member now has a common understanding of the problem and solution, so discussions of edge cases, scaling issues, and other potentially nasty problems can move forward smoothly.
 
@@ -16,18 +16,18 @@ Usually the product manager, business analyst or marketing team handles this. Do
 Especially important is to get them to rank the types of users, which will act as a tiebreaker if a feature is required by one set of users, but is opposed by another set.
 
 Documents created when looking for the target customer:
-* User Personas  
-* Customer Journey  
-* Customer Insights  
+👥 User Personas  
+🏞️ Customer Journey  
+🔦 Customer Insights   
 
 ### Business Value
 
 On the other side, finance or management will require resources to craft the solution suggested. Discuss how you will go about:
 
-* Staffing the team who will create the solution  
-* Customer acquisition costs  
-* Revenue estimates  
-* Potential risks of the solution  
+👷 Staffing the team who will create the solution  
+💰 Customer acquisition costs  
+🏦 Revenue estimates  
+☣️ Potential risks of the solution  
 
 ### Success Metrics
 
