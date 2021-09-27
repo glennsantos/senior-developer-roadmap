@@ -16,6 +16,7 @@ Usually the product manager, business analyst or marketing team handles this. Do
 Especially important is to get them to rank the types of users, which will act as a tiebreaker if a feature is required by one set of users, but is opposed by another set.
 
 Documents created when looking for the target customer:
+
 👥 User Personas  
 🏞️ Customer Journey  
 🔦 Customer Insights   
