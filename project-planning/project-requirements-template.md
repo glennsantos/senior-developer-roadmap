@@ -46,4 +46,4 @@ Read the part of the template about the [Press Release](https://docs.google.com/
 Finally, map out the features into Stories to add to your backlog. Make sure to use the “As a [persona], I [want to], [so that]” format, as well as tag the importance of the story, whether it's a must-have, nice-to-have, or optional.
 
 ----
-Reference: https://docs.google.com/document/d/1TAPT8b2g1JQdoNcc9ssahGgWUp96X8_BWJ59zA7_E40/edit?usp=sharing
+Reference: https://docs.google.com/document/d/1lYUmSJqD5L4tQsDuSSFb7f3PGfw--X3ezBVfCJsg8Hw/edit?usp=sharing
