@@ -2,7 +2,7 @@
 
 Let's get this out of the way: estimating tasks is hard. Thankfully, estimation and scoping are both done as a team so you can get help from those with more experience. Over time, you'll be more confident with your estimates. 
 
-### Scoping
+### 🧺 Scoping
 
 1. Break down epics / features into user stories, with each story creating value for a user.  
 2. Stories are then further broken down into tasks, with each task being a code change that can be unit tested individually.
@@ -20,7 +20,7 @@ Let's get this out of the way: estimating tasks is hard. Thankfully, estimation 
 * Tackling an edge case  
 * Refactoring and optimizing the solution  
 
-### Estimation Tips
+### 🗳️ Estimation Tips
 1. Compare this task to similar tasks you've done before, then use the previous estimate as your baseline.  
 2. Consider any dependencies that might be needed to proceed with the task. These can include:  
    - **Domain knowledge** or research needed to fully understand the requirements.  
