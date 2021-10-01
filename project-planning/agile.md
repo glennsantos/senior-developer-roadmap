@@ -4,7 +4,8 @@
 
 ## Agile Frameworks
 [Scrum](https://www.agilealliance.org/glossary/scrum/)
-* An agile framework that works best for small cross-functional teams (ex. marketing, technical and management in one team) that aim to deliver products while making the work easy to manage. Scrum is short for "scrummage", a term used in rugby to describe a tightly-knit and organized team formation.
+* An agile framework that works best for small cross-functional teams (ex. marketing, technical and management in one team) that aim to deliver products while making the work easy to manage. Scrum is short for "scrummage", a term used in rugby to describe a tightly-knit and organized team formation.  
+* Scrum fits well with organizations whose main business is not the technology products they are creating. Examples are consultancies and large non-tech companies.
 
 [Kanban](https://www.agilealliance.org/glossary/kanban/)
 * A method for visualizing the work created by a team. The most popular tool used for this is probably [Trello](https://trello.com/). Can be used both by software development teams and service delivery teams. Kanban means "signboard", which is the main view used to show the tasks in progress for the project. 
@@ -17,3 +18,6 @@
 
 [Glossary of Agile Terms](https://www.agilealliance.org/agile101/agile-glossary/)
 * A great resource for looking up both project management terms as well as a few software development terms you might be unfamiliar with.
+
+**Further Reading**:  
+- https://blog.pragmaticengineer.com/project-management-at-big-tech/  
