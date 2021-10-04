@@ -1,4 +1,3 @@
-
 ##  💫 Reviews
 
 ### Benefits
@@ -34,7 +33,7 @@ Plan ways to increase product quality and improve processes based on experiences
    + It usually helps to construct a timeline of important milestones during the sprint to help recall events.
 4. Group similar ideas together.
 5. Discuss each answer briefly as a team.
-6. Under "What will we improve", brainstorm next steps to improve problem areas discussed.
+6. Under "**What will we improve**", brainstorm next steps to improve problem areas discussed.
 7. Discuss these steps, grouping similar ideas together and prioritizing as needed.
 8. Afterwards, assign directly-responsible individuals and due dates, as needed.
 
