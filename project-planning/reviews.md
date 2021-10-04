@@ -1,5 +1,5 @@
 
-## Reviews
+##  💫 Reviews
 
 ### Benefits
 
@@ -9,14 +9,15 @@
 
 ### Recommended behaviors
 
-1. Be objective
-2. Be open-minded and open
-3. Focus on improvement instead of blame.
-4. Talk about the actions and decisions, not the people who made them.
-5. Anything sensitive brought up during the retrospective should stay within the team, aka no gossip.
+1. Be objective.
+2. Be open-minded.
+3. Be open.
+4. Focus on improvement instead of blame.
+5. Talk about the actions and decisions, not the people who made them.
+6. Anything sensitive brought up during the retrospective should stay within the team, aka no gossip.
 
 
-## Retrospectives
+## 🪞 Retrospectives
 
 ### Purpose
 
@@ -24,12 +25,12 @@ Plan ways to increase product quality and improve processes based on experiences
 
 ### Steps
 
-1. In a shared document, write down the following headers:
-   + What worked well
-   + What could be better
-   + What will we improve 
+1. In a shared document, write down the following headers:  
+   + **What worked well**  
+   + **What could be better**  
+   + **What will we improve**  
 2. If you've done a retrospective previously, review the results of that briefly.
-3. Under "What worked well", members write down their responses. Do the same for "What could be better"
+3. Under "**What worked well**", members write down their responses. Do the same for "**What could be better**"  
    + It usually helps to construct a timeline of important milestones during the sprint to help recall events.
 4. Group similar ideas together.
 5. Discuss each answer briefly as a team.
@@ -38,7 +39,7 @@ Plan ways to increase product quality and improve processes based on experiences
 8. Afterwards, assign directly-responsible individuals and due dates, as needed.
 
 
-## Post-Mortems
+## 🪦 Post-Mortems
 
 ### Purpose
 
