@@ -17,7 +17,7 @@
 6. Anything sensitive brought up during the retrospective should stay within the team, aka no gossip.
 
 
-## 🪞 Retrospectives
+##  ⏱️ Retrospectives
 
 ### Purpose
 
@@ -39,7 +39,7 @@ Plan ways to increase product quality and improve processes based on experiences
 8. Afterwards, assign directly-responsible individuals and due dates, as needed.
 
 
-## 🪦 Post-Mortems
+##  ⚰️ Post-Mortems
 
 ### Purpose
 
