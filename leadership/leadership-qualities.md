@@ -14,8 +14,8 @@ There's also external self-awareness: understanding how other people view you, i
 
 #### Benefits
 
-* Increased confidence
-* Increased creativity
+* Increase confidence
+* Increase creativity
 * Better decision making
 * Better communications
 
@@ -45,10 +45,9 @@ Transparency means you have open and honest communications with your team.
 
 #### Benefits
 
-* Faster team communication
-* Increased employee happiness and productivity
-* Stronger work culture
-* Better customer relationships
+* Improved communication skills
+* Increase happiness and productivity
+* Stronger bonds with team mates
 
 #### Recommended Activities
 
@@ -58,7 +57,7 @@ Transparency means you have open and honest communications with your team.
 4. Host AskMeAnything sessions so the team can get to know you better.
 5. Avoid sugar coating bad news.
 6. Be straightforward while still being kind.
-7. When sharing decisions, also share the reasons behind it.
+7. When talking about decisions you've made, also share the reasons behind it.
 8. Make information easily accessible to every team member. It should be visible and well as easy to find.
 
 **References**:  
@@ -67,30 +66,30 @@ Transparency means you have open and honest communications with your team.
 - https://buffer.com/transparency  
 - https://about.gitlab.com/handbook/values/#transparency  
 
+----
+
 ### 💔 Vulnerability
 
 Vulnerability means embracing failure and humbly sharing our emotional state during times of uncertainty, risk, and emotional exposure. 
 
 #### Benefits
 
-* Increased trust amongst the team.
-* Improve ones' own courage through tough times.
-* Gives room for others in the team to step up.
-* Cultivate experimentation, learning through failure and innovation in the team.
-* Reduce team stress.
+* Increase trust with your team
+* Build up own courage
+* Reduce stressors caused by keeping up an "image"
+* Facilitate free flow of ideas
 
 #### Recommended Activities
 
 1. Review your strengths and weaknesses and share them with the team.
-2. Be honest with your team regarding the challenges you're struggling with.
+2. Be honest with others regarding the challenges you're struggling with.
 3. Humbly admit when you're wrong or when you don't know something. Don't make excuses and don't explain.
 4. Ask for help even when you feel like it exposes your weakness to the team.
 5. Foster a culture of [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) within the team.
 6. Don't get upset when someone makes a mistake. Instead, give them time to fix it.
-7. During 1:1s, reveal what's bothering you and what you're excited about. Open up about your emotional state so the other person can do so too.
+7. Open up about your emotional state so the other person can do so too.
 8. Avoid interrupting people, as well as any type of hostility including sarcasm and passive agression.
 9. Make it easy for them to reach out to you. Answer calls, respond quickly to chats, and reply without judgment.
-10. Follow through when someone opens up to you and you provide assistance.
 
 **References**:  
 - https://www.cultureamp.com/blog/brene-brown-vulnerability-and-leadership  
@@ -98,7 +97,43 @@ Vulnerability means embracing failure and humbly sharing our emotional state dur
 - https://hbr.org/2014/12/what-bosses-gain-by-being-vulnerable  
 - https://www.mindstrength.com.au/blog/the-importance-of-showing-vulnerability-as-a-leader
 
+----
+
 ### Ownership
 
+Ownership means taking responsibility for outcomes and being empowered to make the decisions that will lead to those outcomes.
+
+#### Benefits
+
+* Increase self-esteem and confidence in abilities
+* Build better relationships with team
+* Speeds up execution on corrective actions
+* Foster learning for both you and others in the team
+* Instills a growth mindset
+
+#### Recommended Activities
+
+1. Shift from a project to a product mindset.
+2. Be proactive in finding and solving problems.  
+3. Dig deep into yourself and reconnect your core values to your work.
+4. Look at problems as opportunities to improve.
+5. Talk with the users of your product. Understand their problems.
+6. Define a mission statement for your role and share your mission widely. 
+7. Recognize that every day offers a series of great opportunities to make a positive impact on those around you.  
+8. Teach others in your team and help them grow.
+
+**References**:  
+- https://hbr.org/2012/08/take-ownership-of-your-actions  
+- https://www.thebalancecareers.com/how-to-take-ownership-of-your-job-2276185
+
+----
+
 ### Resilience
+
+#### Benefits
+
+#### Recommended Activities
+
+
+**References**:  
 
