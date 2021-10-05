@@ -14,10 +14,10 @@ There's also external self-awareness: understanding how other people view you, i
 
 #### Benefits
 
-* Increase confidence
-* Increase creativity
-* Better decision making
-* Better communications
+* Increases confidence
+* Increases creativity
+* Enables better decision making
+* Enables better communication
 
 
 #### Recommended Activities
@@ -45,9 +45,9 @@ Transparency means you have open and honest communications with your team.
 
 #### Benefits
 
-* Improved communication skills
-* Increase happiness and productivity
-* Stronger bonds with team mates
+* Improves communication skills
+* Increases happiness and productivity
+* Builds stronger bonds with team mates
 
 #### Recommended Activities
 
@@ -74,10 +74,10 @@ Vulnerability means embracing failure and humbly sharing our emotional state dur
 
 #### Benefits
 
-* Increase trust with your team
-* Build up own courage
-* Reduce stressors caused by keeping up an "image"
-* Facilitate free flow of ideas
+* Increases trust with your team
+* Builds up your courage
+* Reduces stressors caused by keeping up an "image"
+* Facilitates free flow of ideas
 
 #### Recommended Activities
 
@@ -99,16 +99,16 @@ Vulnerability means embracing failure and humbly sharing our emotional state dur
 
 ----
 
-### Ownership
+### 💼 Ownership
 
 Ownership means taking responsibility for outcomes and being empowered to make the decisions that will lead to those outcomes.
 
 #### Benefits
 
-* Increase self-esteem and confidence in abilities
-* Build better relationships with team
+* Increases self-esteem and confidence in abilities
+* Builds better relationships with team
 * Speeds up execution on corrective actions
-* Foster learning for both you and others in the team
+* Fosters learning for both you and others in the team
 * Instills a growth mindset
 
 #### Recommended Activities
@@ -128,12 +128,35 @@ Ownership means taking responsibility for outcomes and being empowered to make t
 
 ----
 
-### Resilience
+### 🥊 Resilience
+
+Resilience is the ability to recover and adapt quickly from a traumatic event or stressor, a kind of inner strength. Resilient people often have a consistently positive outlook, deal with each difficult situation they face with ease, and don’t exhibit excessive negative emotions during difficult times.
 
 #### Benefits
 
+* Improves ability to handle stress
+* Lets you function well and thrive during times of crisis
+* Improves your effectiveness at work
+* Reduces stress levels
+* Prevents burnout
+
 #### Recommended Activities
+
+1. Do the work and give it your best, but do not worry about the outcome.
+2. Exercise compassion for yourself and others.  
+3. Look back to your life purpose, or craft one if you haven't already. Use that as your guiding light during the crisis.
+4. Pay attention to your health. Sleep 7-8 hours, eat healthy foods, exercise regularly, and so on.
+5. Figure out who and what pushes your buttons. Step away, slow down, or enlist an ally to help you control your reactions and choose your response. 
+6. Keep a journal of your experiences to build self-awareness, encourage learning, and open the door to adaptability.
+7. Cultivate relationships with family, trusted friends and colleagues. They will be your source of stregth and guidance during trying times.
+8. Approach adversity with a positive outlook and without harsh self-criticism. Recognize negative emotions but don't wallow in them.
+9. Practice reframing threats as challenges that will help you grow.
+10. Aim to identify how you feel and act when you’re stressed and what helps you to de-stress, so that you can catch yourself before you spiral.
+11. [Assume positive intent](https://collaborativeway.com/general/a-ceos-advice-assume-positive-intent/).
 
 
 **References**:  
+- https://www.betterup.com/blog/how-to-build-resilience-why-resilience-is-a-top-skill-for-the-workplace
+- https://www.ccl.org/articles/leading-effectively-articles/leadership-resiliency-handling-stress-uncertainty-and-setbacks/  
+- https://online.hbs.edu/blog/post/resilient-leadership  
 
