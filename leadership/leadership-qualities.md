@@ -2,6 +2,8 @@
 
 I'm highlighting these qualities since I believe becoming a successful leader requires all of these traits.
 
+----
+
 ### 🌌 Self-Awareness
 
 There's internal self-awareness: how clearly you see your own values, passions, aspirations, fit with our environment, reactions (including thoughts, feelings, behaviors, strengths, and weaknesses), and impact on others. 
@@ -35,6 +37,8 @@ There's also external self-awareness: understanding how other people view you, i
 - https://hbr.org/2018/01/what-self-awareness-really-is-and-how-to-cultivate-it  
 - https://fisher.osu.edu/blogs/leadreadtoday/blog/become-an-authentic-leader-be-self-aware  
 
+----
+
 ### 🔎 Transparency
 
 Transparency means you have open and honest communications with your team.
@@ -63,7 +67,36 @@ Transparency means you have open and honest communications with your team.
 - https://buffer.com/transparency  
 - https://about.gitlab.com/handbook/values/#transparency  
 
-### Vulnerability
+### 💔 Vulnerability
+
+Vulnerability means embracing failure and humbly sharing our emotional state during times of uncertainty, risk, and emotional exposure. 
+
+#### Benefits
+
+* Increased trust amongst the team.
+* Improve ones' own courage through tough times.
+* Gives room for others in the team to step up.
+* Cultivate experimentation, learning through failure and innovation in the team.
+* Reduce team stress.
+
+#### Recommended Activities
+
+1. Review your strengths and weaknesses and share them with the team.
+2. Be honest with your team regarding the challenges you're struggling with.
+3. Humbly admit when you're wrong or when you don't know something. Don't make excuses and don't explain.
+4. Ask for help even when you feel like it exposes your weakness to the team.
+5. Foster a culture of [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) within the team.
+6. Don't get upset when someone makes a mistake. Instead, give them time to fix it.
+7. During 1:1s, reveal what's bothering you and what you're excited about. Open up about your emotional state so the other person can do so too.
+8. Avoid interrupting people, as well as any type of hostility including sarcasm and passive agression.
+9. Make it easy for them to reach out to you. Answer calls, respond quickly to chats, and reply without judgment.
+10. Follow through when someone opens up to you and you provide assistance.
+
+**References**:  
+- https://www.cultureamp.com/blog/brene-brown-vulnerability-and-leadership  
+- https://learn.g2.com/vulnerable-leadership  
+- https://hbr.org/2014/12/what-bosses-gain-by-being-vulnerable  
+- https://www.mindstrength.com.au/blog/the-importance-of-showing-vulnerability-as-a-leader
 
 ### Ownership
 
