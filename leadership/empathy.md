@@ -3,7 +3,7 @@
 Empathy is the ability to recognize emotions in others, and to understand other people's perspectives on a situation. 
 
 
-### Warmth
+### 🌞 Warmth
 
 Warmth is the measure of how likeable or trustworthy you are.
 
@@ -37,7 +37,7 @@ Warmth is the measure of how likeable or trustworthy you are.
 
 ----
 
-### Active Listening
+### 📻 Active Listening
 
 Active listening is a valuable technique that requires the listener to thoroughly absorb, understand, respond, and retain what’s being said.
 
@@ -114,7 +114,7 @@ Active listening is a valuable technique that requires the listener to thoroughl
 
 ----
 
-### Trust
+### 🎗️ Trust
 
 > Employees expect their leaders to treat them well, and, as a consequence, are comfortable being open with their leaders.
 
