@@ -16,7 +16,7 @@ Warmth is the measure of how likeable or trustworthy you are.
 3. Facilitates trust and the communication and absorption of ideas
 
 
-#### Cultivating Warmth
+#### Cultivating Warmth 🕯️
 
 1. Make sure your actions are genuine.
 2. Think carefully about how you build relationships. Think of it as as part of your job description, rather than self-promotion.
@@ -51,7 +51,7 @@ Active listening is a valuable technique that requires the listener to thoroughl
 2. Fosters empathy for others
 3. Encourages others to open up to you more
 
-#### Active Listening Skills
+#### Active Listening Skills 👂
 
 1. Paying attention
    * Be focused on the moment. Limit distractions.
