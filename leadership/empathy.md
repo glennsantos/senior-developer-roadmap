@@ -113,3 +113,45 @@ Active listening is a valuable technique that requires the listener to thoroughl
 
 
 ----
+
+### Trust
+
+> Employees expect their leaders to treat them well, and, as a consequence, are comfortable being open with their leaders.
+
+#### Two Types of Trust
+
+* **Cognitive trust** is primarily how confident someone feels in the leader's technical ability to do the job.
+* **Affective trust**, known as 'trust of the heart', is characterised by feelings of security and perceived strength of the relationship, as well as the degree to which we think someone's intentions are trustworthy, their ethics sound and their integrity whole.
+
+#### Benefits
+
+1. Increases team happiness
+2. Instills psychological safety
+3. Improves collaboration since people become more open
+
+#### Trusting Others
+
++ The leader lacking in trust is unable to form effective relationships and functional teams. 
++ When a leader is not discerning enough in his trust of others, blind spots flourish and, paradoxically, people in the organization feel unsafe.
+
+#### Building Trust
+
+1. Reinforce the big picture. This helps reorient people to the grand plan and your way of thinking, preventing them from focusing too narrowly on your individual actions or ideas.
+2. Aim for transparency to build cognitive trust so your team gets constant reinforcement that you are tackling technical tasks proactively.
+3. Adopt a continuous learning mindset through constant curiosity.
+4. Be consistent in your actions so people know where they stand with regards to your directives.
+5. Build time for connection and bonding outside of work.
+6. Ask questions and show an interest in team mates as individuals helps you share knowledge and break down barriers. 
+7. Respond to queries and questions in human ways, rather than going straight to set policies.
+8. Let your guard down and share vulnerabilities.
+9.  Treat people fairly and explain the appropriate rationale behind business decisions and directives.
+10. Allocate resources fairly and do not play favorites.
+11. Involve the team in decision making.
+
+![](trust-leadership.png)
+
+**References**:  
+- https://www.forbes.com/sites/prudygourguechon/2018/02/20/why-inspiring-trust-and-trusting-others-are-essential-leadership-capacities-within-bounds/  
+- https://www.investorsinpeople.com/knowledge/leadership-skills-trust/
+- https://scienceforwork.com/blog/trust-in-leadership-change/
+- https://www.betterup.com/blog/leadership-trust
