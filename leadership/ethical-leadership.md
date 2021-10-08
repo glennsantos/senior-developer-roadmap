@@ -13,28 +13,33 @@ Ethical leadership means that individuals behave according to a set of principle
 
 ### Elements of Ethical Leadership
 
-🤚 **Honesty**
-   * Commit to present facts as they are  
-   * Play fair with competitors  
-   * Communicate honestly with others.  
-⚖️ **Justice**  
-   * Treat everyone equally  
-   * Offer opportunities with no favoritism  
-   * Condemn improper behaviors and manipulations  
-🎎 **Respect**  
-   * Listen to each stakeholder  
-   * Foster inclusion  
-   * Value diversity  
-🏛️ **Integrity**  
-   * Values, words, and actions are aligned and consistent  
-🛎️ **Responsibility**  
-   * Accepting to be in charge  
-   * Embracing the power and duties that come with it  
-   * Always responding and being present in challenging situations  
-💬 **Transparency**  
-   * Keeping an open dialogue  
-   * Accepting feedback  
-   * Disclosing the information others need to deliver their work  
+#### 🤚 Honesty
+ * Commit to present facts as they are
+ * Play fair with competitors
+ * Communicate honestly with others.
+
+#### ⚖️ Justice
+ * Treat everyone equally
+ * Offer opportunities with no favoritism
+ * Condemn improper behaviors and manipulations
+
+#### 🎎 Respect
+ * Listen to each stakeholder
+ * Foster inclusion
+ * Value diversity
+
+#### 🏛️ Integrity
+ * Values, words, and actions are aligned and consistent
+
+#### 🛎️ Responsibility
+ * Accepting to be in charge
+ * Embracing the power and duties that come with it
+ * Always responding and being present in challenging situations
+
+#### 💬 Transparency
+ * Keeping an open dialogue
+ * Accepting feedback
+ * Disclosing the information others need to deliver their work
 
 ### How to be an Ethical Leader
 
@@ -54,6 +59,6 @@ Ethical leadership means that individuals behave according to a set of principle
 14. Only recommend something if it's worth it for the customer, even if it's not for the company's best interests.
 15. Manage your stress levels effectively. This means relieving stress in a positive manner, instead of offloading it to your team.
 
-**References**:  
-- https://www.betterup.com/blog/the-importance-of-an-ethical-leader  
+**References**:
+- https://www.betterup.com/blog/the-importance-of-an-ethical-leader
 - https://www.wgu.edu/blog/what-is-ethical-leadership2001.html
