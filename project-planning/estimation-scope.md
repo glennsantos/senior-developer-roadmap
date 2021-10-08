@@ -28,6 +28,9 @@ Let's get this out of the way: estimating tasks is hard. Thankfully, estimation 
    - **Prerequisite code** to build/import that's a dependency for the task, ex. a registration system before building the login page.  
    - **Skills** needed by the team to build the solution.  
 3. Always remember that estimates are relative to each other and should not be absolute figures, like manhours. The usual method is using story points in a Fibonacci sequence which demostrates that larger tasks are often an order of magnitude bigger than the preceding smaller task.
+4. Make sure that experimental feature estimates also take into account the time you need to iterate and discover solutions that work well. Personally, I also try to do these tasks first to offload the cognitive load of an uncertain solution as early as possible.
+5. You might also want to frontload tasks that need to be shown to stakeholders. This gives them assurance that work is progressing and also lets them provide their feedback as early on as possible.
+
 
 ### ♠️ Planning Poker
 
