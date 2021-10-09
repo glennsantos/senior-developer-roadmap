@@ -1,3 +1,5 @@
+## Influencing People
+
 🗒️ Notes from [𝗛𝗼𝘄 𝘁𝗼 𝗜𝗻𝗳𝗹𝘂𝗲𝗻𝗰𝗲 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗔𝘂𝘁𝗵𝗼𝗿𝗶𝘁𝘆](https://medium.com/atlassian-product-management-blog/how-to-influence-without-authority-4622ad7d52c9) by Matthew Tse
 
 𝗜𝗻𝗳𝗹𝘂𝗲𝗻𝗰𝗶𝗻𝗴 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗔𝘂𝘁𝗵𝗼𝗿𝗶𝘁𝘆 is the ability to make others act, behave, or think without having any power or right over them.
