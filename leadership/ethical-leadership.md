@@ -7,7 +7,7 @@ Ethical leadership means that individuals behave according to a set of principle
 1. Reinforces and fosters ethical behaviors in others.
 2. Increases credibility and reputation.
 3. Improves self-esteem.
-4. boost morale and loyalty amongst the team
+4. Boost morale and loyalty amongst the team
 5. Higher team productivity and motivation.
 6. Improves relationships with customers. 
 
@@ -16,7 +16,7 @@ Ethical leadership means that individuals behave according to a set of principle
 #### 🤚 Honesty
  * Commit to present facts as they are
  * Play fair with competitors
- * Communicate honestly with others.
+ * Communicate honestly with others
 
 #### ⚖️ Justice
  * Treat everyone equally
