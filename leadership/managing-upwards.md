@@ -12,26 +12,21 @@
 
 ### Practical Tips
 
-1. Communicate your intent to your managers and colleagues. Spend about 80% time on clarifying your intent, and the remaining 20% on discussing the next action to take. Once the intent and objectives are clarified, add some metrics as a way to measuring progress.
-   * Ensure that your own OKRs and actions help your managers achieve theirs.
-
-> Anything sufficiently complex or abstract takes multiple exposures (in his case, seven) in order for someone to internalize the concept.
-
-2. Discuss expectations with your manager and other team members on how you think it would be best to make a specific decision. Gain clarity on what decisions you have full authority to take without needing to consult your manager.
-   * The intersection of your success and your manager's success is where magic happens, and where your opportunities for fulfilling impact lie.
-3. Understand your manager's most urgent priorities, and then adjust accordingly. Overcommunicate if you're working on their top priority, drop back and keep working well otherwise.
-   * Anticipate their needs and identify things you can take off their plate. There’s nothing managers hate more than surprises.
-4. Give and ask for feedback. Most people exchange feedback because they care about the other person and the collective desired outcomes. 
-   * Ask for feedback on your specific personal and professional development areas, and by this you are creating opportunities for vulnerability and trusting, helpful relationships.
-5. Learn how your leader processes inputs. Tailor the information you share based on the person’s priorities and preferred style. If you must disagree, do so respectfully while outlining your reasons clearly.
-6. Show [vulnerability](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/leadership-qualities.md#-vulnerability). Rather than trying to look competent in any situation and in any domain, [be transparent](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/leadership-qualities.md#-transparency) when you don't know how to approach a problem and communicate about what experiments you will run to find out more information.
+1. **Communicate your intent to your managers and colleagues.** Spend about 80% time on clarifying your intent, and the remaining 20% on discussing the next action to take. Once the intent and objectives are clarified, add some metrics as a way to measuring progress.
+   * Ensure that your own OKRs and actions help your manager achieve theirs.
+2. **Discuss with your manager how decisions should be made.** Which ones can be done at your discretion? Which ones need their inputs?
+3. **Understand your manager's most urgent priorities**, and then adjust accordingly. Overcommunicate if you're working on their top priority, drop back and keep working well otherwise.
+   * Anticipate their needs and identify things you can take off their plate. There's nothing managers hate more than surprises.
+   * The intersection of your success and your manager's success is where the magic happens.
+4. **Give and ask for feedback.** Ask for feedback on your specific personal and professional development areas. Most people exchange feedback because they care about the other person and the collective desired outcomes. 
+   * If you must disagree, do so respectfully while outlining your reasons clearly.
+5. **Learn how your leader processes inputs.** Tailor the information you share based on the person's priorities and preferred style. 
+6. **Show [vulnerability](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/leadership-qualities.md#-vulnerability)**. Rather than trying to look competent in any situation, [be transparent](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/leadership-qualities.md#-transparency) when you don't know how to approach a problem and discuss which experiments you'll run to find out more information.
    * By sharing personal challenges and exchanging help, you can develop a strong supportive bond with your manager and colleagues.
+7. **Always deliver on your commitments.** If any time you discover that meeting your earlier commitment isn't possible, ask for help and form new agreements to minimize impact on the outcome.
+8. **Set up 1:1s** with them to align expectation, overcome challenges, and build rapport. 
+9. **Treat your manager as a person.** Cultivate a sense of curiosity and [emotional empathy](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/empathy.md) with your boss helps develop a relationship which goes beyond daily tasks.
 
-![](celebration-grid-completed.jpg)
-
-7. Always deliver on your commitments. If any time we discover that meeting our earlier commitment is not possible, we should ask for help and form new agreements in due time to minimize impact on the outcome.
-8. Set up 1:1s with them to align expectation, overcome challenges, and build rapport. Creating a shared doc ahead of time helps.
-9. Treat your manager as a person. Cultivating a sense of curiosity and [emotional empathy](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/empathy.md) with your boss can help develop a relationship which goes beyond the daily tasks and can help both of you to mutually develop into a better human being.
 
 **References**:  
 - https://management30.com/blog/managing-up/
