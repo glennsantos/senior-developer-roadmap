@@ -31,7 +31,7 @@ Servant leadership is a leadership philosophy where the goal of the leader is to
 4. Provide support they need to get the job done, whether that's upgrading equipment or speeding up approval processes.
 5. Encourage your members to be proactive and involve them in decision making.
 6. Allow others in the team to lead certain initiatives so they can take ownership and gain confidence.
-7. Build relationships by [active listening](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/active-listening.png) and asking the right questions. Learn about your team in depth.
+7. Build relationships by [active listening](https://github.com/glennsantos/senior-developer-roadmap/blob/main/leadership/empathy.md#-active-listening) and asking the right questions. Learn about your team in depth.
 8. Welcome questions, feedback and input from your team. Understand it with positive intent.
 9. Encourage team mates when they make mistakes, knowing that they are on the path to doing better next time.
 10. Build trust by focusing on your competence (achieving results, skills building) and character (values, integrity, ethics).
