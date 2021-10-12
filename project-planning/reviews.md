@@ -28,6 +28,7 @@ Plan ways to increase product quality and improve processes based on experiences
    + **What worked well**  
    + **What could be better**  
    + **What will we improve**  
+   Use [this template](https://docs.google.com/document/d/1TDL8MkztVUq3U15kP48N2xWFMEpfIKqgmJy7oZCxoX8/edit?usp=sharing) if you're doing this online.
 2. If you've done a retrospective previously, review the results of that briefly.
 3. Under "**What worked well**", members write down their responses. Do the same for "**What could be better**"  
    + It usually helps to construct a timeline of important milestones during the sprint to help recall events.
