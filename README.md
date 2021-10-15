@@ -5,9 +5,14 @@ This is my first version of this roadmap and is a work in progress. The content 
 _TIP: click on the image to see the full-sized version_
 [![](/SeniorDeveloperRoadmap.png "Software Developer Roadmap")](https://raw.githubusercontent.com/glennsantos/senior-developer-roadmap/main/SeniorDeveloperRoadmap.png)
 
-If you prefer something actionable, [jump to the checklist version here](https://docs.google.com/document/d/14KFsSw723NudDQOQhCvOaip9JjPUoiEdl5bg6bKTC14/edit?usp=sharing). _TIP: Go to File > Make a Copy so you can have your own checkable copy of the checklist._
-
-We also have a mentorship program where we help developers become leaders. [Come join us](https://tally.so/r/3leK5w)!
+How to use this Roadmap:
++ Make a copy of the [checklist version](https://docs.google.com/document/d/14KFsSw723NudDQOQhCvOaip9JjPUoiEdl5bg6bKTC14/edit?usp=sharing)
++ In that list, check off the topics you're already competent in.
++ For the ones you haven't checked off, review the notes we have that might help you learn about them. Currently, we have notes on:  
+  - [Leadership](https://github.com/glennsantos/senior-developer-roadmap/tree/main/leadership)  
+  - [Project Planning](https://github.com/glennsantos/senior-developer-roadmap/tree/main/project-planning)  
+  with more soon to come.  
++ Ask us about our new mentorship programs. You can message me via my links below.
 
 More about me:
 - [LinkedIn](https://www.linkedin.com/in/glennsantos/)
