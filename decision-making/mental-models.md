@@ -118,7 +118,7 @@ Simpler explanations are more likely to be true than complicated ones.
 
 ## Hanlon’s Razor
 
-Do not attribute to malice that which is more easily explained by stupidity
+Do not attribute to malice that which is more easily explained by human error.
 > When we see something we don’t like happen and which seems wrong, we assume it’s intentional.
 
 𝙃𝙤𝙬 𝙩𝙤 𝙖𝙥𝙥𝙡𝙮 𝙩𝙝𝙞𝙨:
