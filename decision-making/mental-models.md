@@ -36,10 +36,10 @@ Probabilistic thinking is using some tools of math and logic to estimate the lik
 Trying to invert the relationship can help you sort through claims to determine if you are dealing with true causation or just correlation.
 
 Whenever correlation is imperfect, extremes will soften over time
-> the best will always appear to get worse and the worst will appear to get better,
+> Rhe best will always appear to get worse and the worst will appear to get better,
 
 We often mistakenly attribute a specific policy or treatment as the cause of an effect, when the change in the extreme groups would have happened anyway.
-> Solution: control groups.
+> Solution: Create control groups.
 
 ----
 
@@ -163,12 +163,13 @@ Building a circle of competence takes years of experience, of making mistakes, a
 ### Falsifiability
 
 Falsification is the opposite of verification
-> you must try to show the theory is incorrect, and if you fail to do so, you actually strengthen it.
+> You must try to show the theory is incorrect, and if you fail to do so, you actually strengthen it.
 
 Applying the filter of falsifiability helps us sort through which theories are more robust.
 
+----
 
-Recommended Video:
+### Recommended Video:
 - https://www.youtube.com/watch?v=ywyQ_eNNCJU&list=PLI84Sf0aDgazRojpYTLTXFE6Iaf5bkYr_
 
 
