@@ -2,7 +2,7 @@
 * A method of developing software that follows the [Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/) and the [12 Agile Principles](https://agilemanifesto.org/principles.html). The name Agile was chosen to reflect the need for software development to be "agile" when facing changing requirements and technologies.
 * Instead of focusing on processes and procedures, Agile emphasizes that the people creating the software are more important, allowing them to become self-organized, collaborative, and cross-functional teams.
 
-## Agile Frameworks
+### Agile Frameworks
 [Scrum](https://www.agilealliance.org/glossary/scrum/)
 * An agile framework that works best for small cross-functional teams (ex. marketing, technical and management in one team) that aim to deliver products while making the work easy to manage. Scrum is short for "scrummage", a term used in rugby to describe a tightly-knit and organized team formation.  
 * Scrum fits well with organizations whose main business is not the technology products they are creating. Examples are consultancies and large non-tech companies.
@@ -19,5 +19,5 @@
 [Glossary of Agile Terms](https://www.agilealliance.org/agile101/agile-glossary/)
 * A great resource for looking up both project management terms as well as a few software development terms you might be unfamiliar with.
 
-**Further Reading**:  
+**References**:  
 - https://blog.pragmaticengineer.com/project-management-at-big-tech/  
