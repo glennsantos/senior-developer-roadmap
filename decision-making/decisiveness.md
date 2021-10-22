@@ -10,7 +10,7 @@
 4. Embrace experimentation 🧪 to overcome the fear of failure. TIP: practice saying "no".  
 5. Pursue growth, not perfection. 🌳 Learn from your mistakes instead of self-criticizing wrong decisions.  
 
-**Resources**:  
+**References**:  
 - https://www.theladders.com/career-advice/how-to-be-more-decisive-in-3-steps
 - https://www.forbes.com/sites/ashleystahl/2020/08/06/3-brain-hacks-to-be-more-decisive/
 - https://nickwignall.com/how-to-be-decisive/

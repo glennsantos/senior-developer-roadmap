@@ -169,6 +169,9 @@ Applying the filter of falsifiability helps us sort through which theories are m
 
 ----
 
+**References**:  
+- https://fs.blog/mental-models-vol3/  
+
 ### Recommended Video:
 - https://www.youtube.com/watch?v=ywyQ_eNNCJU&list=PLI84Sf0aDgazRojpYTLTXFE6Iaf5bkYr_
 
