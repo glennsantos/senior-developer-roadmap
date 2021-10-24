@@ -10,13 +10,13 @@
 
 1. Create a grid like this
 ![](consequential-reversible-grid.jpeg)
-2. For inconsequential decisions that have little or no long term impact, delegate those to your team. Ex. Choosing an emoji for a message.
-3. For reversible and consequential decisions, run experiments to gather information. You can easily revert them anyway, and decide a better course of action. Ex. Picking an IDE to use.
+2. For inconsequential decisions that have little or no long term impact, delegate those to juniors in the team. Ex. Choosing an emoji for a message.
+3. For reversible and consequential decisions, run experiments to gather information. You can easily revert and go with a better course of action later if needed. Ex. Picking an IDE to use.
 4. For irreversible and consequential decisions, take time to decide a course of action. Ex. Deciding whether to accept a new job offer or not.
 
 ### How to Use a Decision Matrix
 
-For #3 and #4 above, you can use a decision matrix to weight your options.
+For #3 and #4 above, you can use a decision matrix to weigh your options.
 
 1. Along the first column, list down your options.
 2. In the first row, list the most important criteria that will affect your decision.
