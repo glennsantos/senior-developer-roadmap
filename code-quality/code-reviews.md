@@ -19,11 +19,12 @@
 * reviewer
 * team
 
+![](code-review-process.jpeg)
 
 𝘽𝙚𝙨𝙩 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙚𝙨 𝙛𝙤𝙧 𝙘𝙤𝙙𝙚 𝙧𝙚𝙫𝙞𝙚𝙬𝙨
 
 𝗙𝗼𝗿 𝘁𝗵𝗲 𝗧𝗲𝗮𝗺:
-1. Create pull request guidelines everyone can follow easily. Discuss whether the author or reviewer is responsible for which activity, as well as what to do during each step of the review process.
+1. Agree on pull request guidelines everyone can follow easily. Discuss whether the author or reviewer is responsible for which activity, as well as what to do during each step of the review process.
 2. Create a checklist for the standards that you'd like to focus on during the review.
 * *Functionality*: Does it behave as expected?
 * *Software Design*: Does the code fit the rest of the code base?
@@ -32,12 +33,11 @@
 * *Naming*: Are names for variables, functions, etc. descriptive?
 * *Comments*: Are the comments clear and useful?
 * *Documentation*: Did the author also update the  relevant docs?
-3. Get the team to agree on the items in 1. and 2. above.
-4. Decide on the team’s preferred channels to communicate certain information, whether it's email, chat, the PR thread, etc.
-5. Use the shared repository model. Collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made.
-6. Invest in setting up a continuous integration  solution to automate as many quality checks as possible.They can provide additional data for the review process.
-7. Convert linting, spacing and other rules about details into automated checks. Consider using the Prettier defaults for Javascript, for example.
-8. Consider creating a PR templates for authors to standardize parts of the descriptions.
+3. Decide on the team’s preferred channels to communicate certain information, whether it's email, chat, the PR thread, etc.
+4. Use the shared repository model. Collaborators are granted push access to a single shared repository and topic branches are created when changes need to be made.
+5. Invest in setting up a continuous integration  solution to automate as many quality checks as possible.They can provide additional data for the review process.
+6. Convert linting, spacing and other rules about details into automated checks. Consider using the Prettier defaults for Javascript, for example.
+7. Consider creating a PR templates for authors to standardize parts of the descriptions.
 
 𝗙𝗼𝗿 𝗔𝘂𝘁𝗵𝗼𝗿𝘀: 
 1. Make sure that complex and/or important stories and features are discussed beforehand to avoid rewrites after the PR. Consider creating a PoC or drawing a diagram as your first draft PR.
@@ -49,7 +49,7 @@
 7. Document the PR discussion in code. Feel free to write comments. Add a summary of any face-to-face discussion as a PR comment (can be done by either author or reviewer). 
 
 𝗙𝗼𝗿 𝗥𝗲𝘃𝗶𝗲𝘄𝗲𝗿𝘀:
-1. Reviewers should minimize the response lag to the author. Tell the author when they can expect their code to be reviewed, whether that's the next hour or the next day.
+1. Tell the author when they can expect their code to be reviewed, whether that's the next hour or the next day.
 2. Dev shouldn't interrupt their focus to do reviews.
 3. Have a bias for action. If a tech decision lingers and work becomes blocked, deciding something relatively quickly is better than slowly concluding to an "ideal" decision. Be inclined to merge code instead of nitpicking.
 4. Foster a positive feedback culture. Some ways to do this:
