@@ -36,7 +36,7 @@ The design doc documents the high level implementation strategy and key design d
 4. Alternative designs considered but not selected, including a short reason why it wasn't chosen.  
 5. Other relevant concerns relevant to the org, like data security, scalability, etc.  
 
-You can also use this **[Design Doc Template](https://docs.google.com/document/d/1M3b2nwAYan7ekDZX9ValnMtA26RdcStX_wnluFH0-FA/edit?usp=sharing)**
+You can also use this **[Design Doc Template](https://docs.google.com/document/d/1vgBY2GrH-CvpDlu4fEFgnydRIqjemlOIVjKpkh6FjY0/edit)**
 
 ---
 
