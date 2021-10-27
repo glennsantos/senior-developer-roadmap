@@ -1,3 +1,7 @@
+## 💭 Mental Models
+
+----
+
 ## ↩️ Inversion
 
 Ask how you might achieve a terrible outcome, and let that guide our decision-making by avoiding it.
