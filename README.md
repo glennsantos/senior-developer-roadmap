@@ -11,7 +11,10 @@ How to use this Roadmap:
 + For the ones you haven't checked off, review the notes we have that might help you learn about them. Currently, we have notes on:  
   - [Leadership](https://github.com/glennsantos/senior-developer-roadmap/tree/main/leadership)  
   - [Project Planning](https://github.com/glennsantos/senior-developer-roadmap/tree/main/project-planning)  
+  - [Decision Making](https://github.com/glennsantos/senior-developer-roadmap/tree/main/decision-making)
+  - [Code Quality](https://github.com/glennsantos/senior-developer-roadmap/tree/main/code-quality)
   with more soon to come.  
++ The roadmap is very flexible, so feel free to do your own research on the topics you still need to learn. Pull requests for notes are welcome!
 + Ask us about our new mentorship programs. You can message me via my links below.
 
 More about me:
