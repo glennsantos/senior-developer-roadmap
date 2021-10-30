@@ -45,13 +45,31 @@ Plan ways to increase product quality and improve processes based on experiences
 
 Understand and study all the failures encountered after a project has been finished, in order to prevent these issues from happening again in the future.
 
+*The only certain thing about outages is that they will always happen.*
+
 > Retrospectives are done to deliver improvements while the project is still ongoing, whereas post-mortems can only be used to improve succeeding projects.
 
 ### Steps
 
 Use the steps for retrospectives above, but with the scope covering the whole project instead.
 
+* When doing a root cause analysis, avoid making it seem like a single person is responsible for the incident. Instead of directly or indirectly putting the blame on one person, go further and look at why systems allowed anyone to make those changes, without providing feedback.
+* Remove the pressure of it “never happening again” and of all reviews needing to have action items.
+
+### Best Practices for Incident Reporting
+
+1. Create a culture where it’s encouraged to raise an incident. Even if it turns out to not be an outage, it’s worthwhile learning to investigate why it felt like something was wrong.
+2. Make it clear who is in charge of mitigating the incident, and who should communicate with stakeholders. 
+3. Define incident severity levels ahead of time. Most companies define severity levels based on how customers might be impacted, and the impact radius based on what percentage of these customers are impacted. 
+4. Have playbooks ready for common incidents, and make them easy to locate and use.
+5. Give people the space to get together and discuss what happened, and aim for all those involved to have their say.
+6. Ask questions to understand how various factors could have contributed to the outage, and what are the things that contributed to those factors.
+7. Share incident analysis and learnings with a broader group, instead of keeping it within the small group which reviews incidents.
+8. Find and use tools built for efficient incident handling.
+9. Focus on learning over action items, if you want to take incident handling to the next level. 
+
 **References**:  
 * https://www.atlassian.com/team-playbook/plays/retrospective  
 * https://www.scrum.org/resources/what-is-a-sprint-retrospective  
 * https://agilepainrelief.com/blog/agile-retrospectives.html  
+* https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
