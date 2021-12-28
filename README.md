@@ -1,6 +1,6 @@
 ## The Senior Developer Roadmap, α version
 
-This is my first version of this roadmap and is a work in progress. The content taken is from exhaustive research, surveys among past senior devs and feedback from mentors. Any comments are appreciated!
+This is my first version of this roadmap and is a work in progress. The content taken is from exhaustive research, surveys among past senior devs and feedback from mentors. Any pull requests and corrections are appreciated!
 
 _TIP: click on the image to see the full-sized version_
 [![](/SeniorDeveloperRoadmap.png "Software Developer Roadmap")](https://raw.githubusercontent.com/glennsantos/senior-developer-roadmap/main/SeniorDeveloperRoadmap.png)
