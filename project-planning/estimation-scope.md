@@ -54,6 +54,7 @@ Read more: [How T-Shirts Can Style Up The Strategy For Your Next Big Project Kic
 **References**:  
 1. https://www.pluralsight.com/guides/break-down-agile-user-stories-into-tasks-and-estimate-level-of-effort
 2. https://www.slideshare.net/larsthorup/elephant-carpaccio
+3. https://bauer-information-technology.com/docs/simplify+calibration+of+your+agile+estimates
 
 ----
 
