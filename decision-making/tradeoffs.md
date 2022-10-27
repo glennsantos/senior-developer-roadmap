@@ -24,11 +24,11 @@
 
 ### Framework for Deciding to use New Technology
 
-🔳 Have I exhausted all my usual solutions to the problems before using a new unfamiliar technology?
-🔳 Does this new tech address the requirements of the project? Don't choose it just because it's novel and exciting.
-🔳 Are you choosing this tech because it yields a correct solution? Or are you choosing it because it's simpler to code or has better performance? It's easier to fix performance and to make code simpler later versus fixing an incorrect solution.
-🔳 Is this technology here to stay? How popular is it? Has it been around for a few years? How actively maintained is it?
-🔳 Is this technology something my team likes to work with? Does it match their skill levels? Never underestimate motivation for driving people to learn new technologies.
+🔳 Have I exhausted all my usual solutions to the problems before using a new unfamiliar technology?  
+🔳 Does this new tech address the requirements of the project? Don't choose it just because it's novel and exciting.  
+🔳 Are you choosing this tech because it yields a correct solution? Or are you choosing it because it's simpler to code or has better performance? It's easier to fix performance and to make code simpler later versus fixing an incorrect solution.  
+🔳 Is this technology here to stay? How popular is it? Has it been around for a few years? How actively maintained is it?  
+🔳 Is this technology something my team likes to work with? Does it match their skill levels? Never underestimate motivation for driving people to learn new technologies.  
 
 **References**:  
 - https://www.nemil.com/on-software-engineering/think-in-tradeoffs.html
