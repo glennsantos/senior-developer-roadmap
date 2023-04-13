@@ -1,7 +1,7 @@
 ## Mindful Communication
 
 ### 🦻 Listen Actively
-* Practice active listening by focusing on the speaker's words, body language, and tone of voice. 
+* Practice [active listening](https://github.com/glennsantos/senior-developer-roadmap/blob/main/communication/listening.md) by focusing on the speaker's words, body language, and tone of voice. 
 * Avoid interrupting or assuming you know what the other person is saying.
 * Put your activities aside and totally be with the person who’s talking.
 
