@@ -33,7 +33,7 @@
 * Remember names: the name of the speaker, any one close to them and anyone they mention that seem important.
 * Recall topics you've talked about before that are relevant and important to the speaker.
 
-### Ask the Right Questions
+### 🖐️ Ask the Right Questions
 * Ask open-ended questions that invite the speaker to communicate their point of view.
 * If something is unclear, ask clarifying questions to ensure you understand the speaker's point of view.
 * After the speaker has finished speaking, reflect back on what they have said and clarify any points that are unclear. 
