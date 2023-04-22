@@ -17,6 +17,7 @@ How to use this Roadmap:
   - with more soon to come.  
 + The roadmap is very flexible, so feel free to do your own research on the topics you still need to learn. Pull requests for notes are welcome!
 + Ask us about our new mentorship programs. You can message me via my links below.
++ Once you've gone through this, move on to the [Tech Lead Roadmap](https://github.com/glennsantos/tech-lead-roadmap)!
 
 More about me:
 - [LinkedIn](https://www.linkedin.com/in/glennsantos/)
