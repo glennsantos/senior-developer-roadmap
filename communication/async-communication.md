@@ -45,25 +45,25 @@ You want everyone to participate and collaborate on something
 ### When Should I Use... ?
 
 #### 📩 Email
-1. For official communications like company-wide announcements, especially for large organizations.
-2. For formal communications with outside entities, such as emailing contracts with suppliers.
-3. Keep a permanent legal record of communications, like when initiating a performance improvement plan.
+* For official communications like company-wide announcements, especially for large organizations.
+* For formal communications with outside entities, such as emailing contracts with suppliers.
+* Keep a permanent legal record of communications, like when initiating a performance improvement plan.
 
 #### 📔 Shared Docs (Google Docs, Notion, Sharepoint, etc)
-1. When the output is something that will be archived for long-term reference, like an inventory of servers or a contract.
-2. When the output is meant to be shared with external entities or with the public, like an FAQ.
-3. Keep track of changes for transparency and accountability.
-4. Enable people to share complex ideas since documents allow you to attach images, graphs, tables and so on.
+* When the output is something that will be archived for long-term reference, like an inventory of servers or a contract.
+* When the output is meant to be shared with external entities or with the public, like an FAQ.
+* Keep track of changes for transparency and accountability.
+* Enable people to share complex ideas since documents allow you to attach images, graphs, tables and so on.
 
 #### 🎟️ Commenting on Tickets and Discussion Boards
-1. For topic-focused collaboration between teams in the org.
-2. When you want to be able to reference the discussions in the future, since you can often link back to these discussions.
-3. For messages that need responses within the day (like for tickets) or within a few days (like for discussion boards).
+* For topic-focused collaboration between teams in the org.
+* When you want to be able to reference the discussions in the future, since you can often link back to these discussions.
+* For messages that need responses within the day (like for tickets) or within a few days (like for discussion boards).
 
 #### 💬 Chat
-1. For casual and informal short messages, like asking for advice from a teammate or sharing memes.
-2. Also for sending messages that you want to keep private or confidential.
-3. For messages that need responses within the next couple of hours, max. Some messages, like for larger group chats, are answered within the day. 
+* For casual and informal short messages, like asking for advice from a teammate or sharing memes.
+* Also for sending messages that you want to keep private or confidential.
+* For messages that need responses within the next couple of hours, max. Some messages, like for larger group chats, are answered within the day. 
 
 **References**:  
 - https://www.reworked.co/collaboration-productivity/internal-communications-email-vs-chat-vs-discussion-vs-meetings/
@@ -72,12 +72,12 @@ You want everyone to participate and collaborate on something
 
 ### ⌨️ Tips for Writing Professional Async Messages (chats, comments, and similar)
 
-1. Keep it brief and to the point.
-2. Check your grammar and spelling.
-3. Use appropriate capitalization. All CAPS means shouting.
-4. Use emojis, but not too much (and only the socially acceptable ones) 🆗
-5. Add formatting for emphasis as needed, but also not too much.
-6. Use the right tone. Good rule is to type as if you're speaking to them in person.
+* Keep it brief and to the point.
+* Check your grammar and spelling.
+* Use appropriate capitalization. All CAPS means shouting.
+* Use emojis, but not too much (and only the socially acceptable ones) 🆗
+* Add formatting for emphasis as needed, but also not too much.
+* Use the right tone. Good rule is to type as if you're speaking to them in person.
 
 ******************
 
