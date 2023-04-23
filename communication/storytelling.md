@@ -6,32 +6,25 @@
 🪁 **Feature Planning**  
 They're called "user stories" for a reason, after all.
 
-🎡 **Change Requests** 
-
+🎡 **Change Requests**  
 Implementing something new can be a challenge if you don't show people how your new process will help their daily work.
 
-🏟️ **Product Demos** 
-
+🏟️ **Product Demos**  
 Perfect for illustrating how people will actually use your software in a context they understand.
 
-🏕️ **Retrospectives** 
-
+🏕️ **Retrospectives**  
 Make your challenges during development relatable through a solid narrative.
 
-⛳ **Meetings With Management** 
-
+⛳ **Meetings With Management**  
 Whether you're reporting progress or pitching an idea, stories help leaders relate to your points better.
 
-🎢 **Onboarding** 
-
+🎢 **Onboarding**  
 Help new joiners feel at ease by talking about your own experiences during your first week with the company.
 
-💺 **Performance Evaluations** 
-
+💺 **Performance Evaluations**  
 Sharing direct feedback goes down easier if you build rapport with the other party.
 
-💈 **Knowledge Transfer Sessions** 
-
+💈 **Knowledge Transfer Sessions**  
 One of the best ways to teach is through a story.
 
 > Being able to articulate a vision, or an opinion, in precise and concise writing, is critical to influencing. If you want to grow to Staff or Principal levels, you need to develop the ability to put forth a narrative.
