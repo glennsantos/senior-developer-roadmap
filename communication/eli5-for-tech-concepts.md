@@ -1,10 +1,11 @@
 ## 🖍️ ELI5 for Tech Concepts
 > ELI5 refers to "explain like I'm five (years old)", teaching an idea such that even a kindergartener can understand it. Of course, you don't think the person is actually five. Look at it this way: the person was absent during class when the concept was explained by the professor at university.
-* As a senior developer, you should be able to explain complicated technical ideas to junior and non-technical team members in simple, easy-to-understand language. Having this superpower makes collaboration and communication so much easier within and between teams.
+
+As a senior developer, you should be able to explain complicated technical ideas to junior and non-technical team members in simple, easy-to-understand language. Having this superpower makes collaboration and communication so much easier within and between teams.
 
 ### *Steps to becoming an ELI5 Master*
 
-#### 1🧠 Grok the Idea
+#### 🧠 Grok the Idea
  - If you need to brush up on the topic, fire up your browser to look up and review the concept once again. 
  - If you feel like you don't grasp the idea enough to explain it, be honest with your audience and maybe even tell them that you'll get back to them after you do your research. There is no shame in it.
  - Practice explaining the concept to yourself before trying to explain it to others, if you have time. This is similar to [Rubberducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) about code.
