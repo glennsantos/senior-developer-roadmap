@@ -3,43 +3,43 @@
 
 ### When to Add Stories
 
-* 🪁 **Feature Planning** They're called "user stories" for a reason, after all.
+🪁 **Feature Planning** They're called "user stories" for a reason, after all.
 
-* 🎡 **Change Requests** Implementing something new can be a challenge if you don't show people how your new process will help their daily work.
+🎡 **Change Requests** Implementing something new can be a challenge if you don't show people how your new process will help their daily work.
 
-* 🏟️ **Product Demos** Perfect for illustrating how people will actually use your software in a context they understand.
+🏟️ **Product Demos** Perfect for illustrating how people will actually use your software in a context they understand.
 
-* 🏕️ **Retrospectives** Make your challenges during development relatable through a solid narrative.
+🏕️ **Retrospectives** Make your challenges during development relatable through a solid narrative.
 
-* ⛳ **Meetings With Management** Whether you're reporting progress or pitching an idea, stories help leaders relate to your points better.
+⛳ **Meetings With Management** Whether you're reporting progress or pitching an idea, stories help leaders relate to your points better.
 
-* 🎢 **Onboarding** Help new joiners feel at ease by talking about your own experiences during your first week with the company.
+🎢 **Onboarding** Help new joiners feel at ease by talking about your own experiences during your first week with the company.
 
-* 💺 **Performance Evaluations** Sharing direct feedback goes down easier if you build rapport with the other party.
+💺 **Performance Evaluations** Sharing direct feedback goes down easier if you build rapport with the other party.
 
-* 💈 **Knowledge Transfer Sessions** One of the best ways to teach is through a story.
+💈 **Knowledge Transfer Sessions** One of the best ways to teach is through a story.
 
 > Being able to articulate a vision, or an opinion, in precise and concise writing, is critical to influencing. If you want to grow to Staff or Principal levels, you need to develop the ability to put forth a narrative.
 
-### Where to Include Stories
+### 📚 Where to Include Stories
 
 1. **Introduction**  
-A good story or experience can be a good segue to your main topic.
-* Example: When writing your coding style guide, start with a story about how having a style guide helped you become a better programmer, and the challenges you faced using it the first time.
+A good story or experience can be a good segue to your main topic.  
+*Example: When writing your coding style guide, start with a story about how having a style guide helped you become a better programmer, and the challenges you faced using it the first time.*
  
 2. **Illustration**  
-Insert a story about how to apply something you're teaching or how they might encounter the idea in real life. This makes it more relatable.
-* Example: During your documentation of a new feature, write a narrative about how people might use that feature to help in their work.
+Insert a story about how to apply something you're teaching or how they might encounter the idea in real life. This makes it more relatable.  
+*Example: During your documentation of a new feature, write a narrative about how people might use that feature to help in their work.*
 
 3. **Interaction**  
-Invite the reader to step into the shoes of the protagonist of a story. How do they feel about it? What would they change about it? 
-* Example: Craft a day-in-the-life story about someone using your new deployment process. Let other developers step into the role of DevOps and solicit feedback.
+Invite the reader to step into the shoes of the protagonist of a story. How do they feel about it? What would they change about it?  
+*Example: Craft a day-in-the-life story about someone using your new deployment process. Let other developers step into the role of DevOps and solicit feedback.*
 
 4. **Conclusion**  
-End with a story and a question to keep your audience engaged and thinking about your topic.
-* Example: Finish your performance review of a junior engineer with a short retelling of your own struggles being a new developer in a team.
+End with a story and a question to keep your audience engaged and thinking about your topic.  
+*Example: Finish your performance review of a junior engineer with a short retelling of your own struggles being a new developer in a team.*
 
-### Storytelling Guidelines
+### ☝️ Storytelling Guidelines
 * **Choose a story that fits your audience.** Talk to your audience and use the techniques and language they understand best.
 
 * **Choose a provocative yet informative title.** It has to be intriguing without misleading. You're also upfront about your main topic so as not to waste anyone's time.
