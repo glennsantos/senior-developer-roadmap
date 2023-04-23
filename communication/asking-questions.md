@@ -1,6 +1,6 @@
-## ❔ Asking Questions
+## 🛂 Asking Questions
 
-### Types of Questions to Ask
+### Types of Questions to Ask:
 
 📬 **Open-ended Questions**  
 These questions allow the speaker to provide a detailed response, and can help to encourage them to share their thoughts and feelings more fully. Examples include "Can you tell me more about that?" or "How did you feel about that?"
