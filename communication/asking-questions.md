@@ -2,23 +2,23 @@
 
 ### Types of Questions to Ask
 
-* 📬 Open-ended Questions
-> These questions allow the speaker to provide a detailed response, and can help to encourage them to share their thoughts and feelings more fully. Examples include "Can you tell me more about that?" or "How did you feel about that?"
+📬 **Open-ended Questions**  
+These questions allow the speaker to provide a detailed response, and can help to encourage them to share their thoughts and feelings more fully. Examples include "Can you tell me more about that?" or "How did you feel about that?"
 
-* 🔎 Clarifying Questions
-> These questions are used to ensure that you have fully understood what the speaker is saying. Examples include "Can you clarify what you mean by that?" or "Can you explain that in more detail?"
+🔎 **Clarifying Questions**  
+These questions are used to ensure that you have fully understood what the speaker is saying. Examples include "Can you clarify what you mean by that?" or "Can you explain that in more detail?"
 
-* 🏕️ Reflective Questions
-> These questions encourage the speaker to reflect on their thoughts and feelings. Examples include "How do you feel about that?" or "What do you think might have caused that?"
+🏕️ **Reflective Questions**  
+These questions encourage the speaker to reflect on their thoughts and feelings. Examples include "How do you feel about that?" or "What do you think might have caused that?"
 
-* 💗 Empathetic Questions 
-> These questions demonstrate empathy and understanding of the speaker's perspective. Examples include "That must have been difficult for you, how did you cope?" or "What can I do to support you?"
+💗 **Empathetic Questions**  
+These questions demonstrate empathy and understanding of the speaker's perspective. Examples include "That must have been difficult for you, how did you cope?" or "What can I do to support you?"
 
-* 🧩 Problem-Solving Questions 
-> These questions are used to explore potential solutions to a problem or issue. Examples include "What options do you think we have?" or "What steps can we take to address this issue?"
+🧩 **Problem-Solving Questions**  
+These questions are used to explore potential solutions to a problem or issue. Examples include "What options do you think we have?" or "What steps can we take to address this issue?"
 
-* ✋ Follow-up Questions
-> These questions signal to your conversation partner that you are listening, care, and want to know more. People interacting with a partner who asks lots of follow-up questions tend to feel respected and heard.
+✋ **Follow-up Questions**  
+These questions signal to your conversation partner that you are listening, care, and want to know more. People interacting with a partner who asks lots of follow-up questions tend to feel respected and heard.
 
 ### Tip for Asking Great Questions
 
