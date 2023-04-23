@@ -3,8 +3,7 @@
 
 ### When to Add Stories
 
-🪁 **Feature Planning**
-
+🪁 **Feature Planning**  
 They're called "user stories" for a reason, after all.
 
 🎡 **Change Requests** 
