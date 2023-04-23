@@ -1,37 +1,37 @@
 ## Async Communication
 > Async communication covers all methods of communication that aren't real-time, like email, comments in tickets, and even shared documents. Though some async modes of communication can become synchronous at times (I'm looking at your chat), the expectation is that you can take your time to reply to these communications.
 
-### Use ☎️ **Synchronous** communications to get from:
+### *Use ☎️ **Synchronous** communications to get from:*
 
 #### Doing to Done Now ⚡
-You need something completed (not just started) immediately. 
-* Example: Call up everyone in the incident team to handle a security breach.
+You need something completed (not just started) immediately.  
+*Example: Call up everyone in the incident team to handle a security breach.*
 
 #### Uncertainty to Clarity 💡
-You need people to understand an idea well, avoid miscommunications, and reduce back-and-forth
-* Example: Set a team video call when doing retrospectives, where people can explain what went wrong, ask follow up questions and suggest permanent fixes to avoid future issues.
+You need people to understand an idea well, avoid miscommunications, and reduce back-and-forth.  
+*Example: Set a team video call when doing retrospectives, where people can explain what went wrong, ask follow up questions and suggest permanent fixes to avoid future issues.*
 
 #### Arms-Length to Tight-Knit 👐
-You want people to build rapport with each other. 
-* Example: A new joiner should meet the team in-person or if that's not possible, through an on-cam video call.
+You want people to build rapport with each other.  
+*Example: A new joiner should meet the team in-person or if that's not possible, through an on-cam video call.*
 
-### Use 📑 **Asynchronous** communications to get from:
+### *Use 📑 **Asynchronous** communications to get from:*
 
 #### Work to Deep Work 🔬
-You want people to stay focused on their tasks.
-* Example: Leave comments about coding style changes in the person's merge request, instead of chatting them about it.
+You want people to stay focused on their tasks.  
+*Example: Leave comments about coding style changes in the person's merge request, instead of chatting them about it.*
 
 #### Off-hand to Well-Thought Out 💭
-You need people to respond to you thoughtfully.
-* Example: Email your supervisor to get their feedback on your proposed change to task assignments.
+You need people to respond to you thoughtfully.  
+*Example: Email your supervisor to get their feedback on your proposed change to task assignments.*
 
 #### No Knowledge to Understanding 👓
-You're sharing a huge chunk of information that everyone needs to grasp well.
-* Example: Create a shared document reporting how you plan to restructure the engineering team, including org charts, process diagrams and graphs.
+You're sharing a huge chunk of information that everyone needs to grasp well.  
+*Example: Create a shared document reporting how you plan to restructure the engineering team, including org charts, process diagrams and graphs.*
 
 #### Missing Out to Inclusion 🚸
-You want everyone to participate and collaborate on something
-* Example: Open a spreadsheet where people can add their ideas for new features, setting a future deadline when the sheet will be reviewed. This allows everyone from early birds to night owls, from local to foreign offices, to contribute their ideas at the time that's best for them.
+You want everyone to participate and collaborate on something  
+*Example: Open a spreadsheet where people can add their ideas for new features, setting a future deadline when the sheet will be reviewed. This allows everyone from early birds to night owls, from local to foreign offices, to contribute their ideas at the time that's best for them.*
 
 
 **References**:  
