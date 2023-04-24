@@ -2,22 +2,23 @@
 
 ### Benefits of Overcommunication:
 
-⚠️  **Reinforces important messages**
-🔑 **Relays key information**
-✅ **Helps everyone stay on the same page**
+#### ⚠️  **Reinforces important messages**  
+#### 🔑 **Relays key information**  
+#### ✅ **Helps everyone stay on the same page**  
+
 > Note: Overcommunication is not oversharing or info-dumping on your employees at every interaction. Do not micromanage.
 
 ### When to Overcommunicate?
 
-⌛ When Timing is Critical.
+#### ⌛ When Timing is Critical.
   * Projects with tight deadlines
   * During an ongoing security incident
   * At times of crisis
-🏗️ When Work is Complex
+#### 🏗️ When Work is Complex
   * Large, multi-team projects
   * Projects where the team is highly-distributed across many locations
   * High-risk projects, often those that involve safety and health
-🌊 During Times of Change  
+#### 🌊 During Times of Change  
   * When there is a change in organization structure
   * During mergers and acquisitions
   * When there is a change in leadership
