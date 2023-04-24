@@ -4,13 +4,13 @@
 
 #### ⚠️  **Reinforces important messages**  
 #### 🔑 **Relays key information**  
-#### ✅ **Helps everyone stay on the same page**  
+#### ☑️ **Helps everyone stay on the same page**  
 
 > Note: Overcommunication is not oversharing or info-dumping on your employees at every interaction. Do not micromanage.
 
 ### When to Overcommunicate?
 
-#### ⌛ When Timing is Critical.
+#### ⌛ When Timing is Critical
   * Projects with tight deadlines
   * During an ongoing security incident
   * At times of crisis
