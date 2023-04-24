@@ -1,4 +1,4 @@
-## Storytelling
+## 📜 Storytelling
 > Stories encourage personal connection; they’re an effective method for engaging an audience and helping them to remember the content we’re sharing.
 
 ### When to Add Stories
