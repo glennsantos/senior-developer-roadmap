@@ -23,7 +23,7 @@
   * During mergers and acquisitions
   * When there is a change in leadership
 #### 🤼 To Build Up Less Experienced Team Members
-  * Juniors and new joiners need intentional feedback about their work to improve
+  * Juniors and new joiners need intentional feedback about their work to improve, especially in remote workplaces
   * Chat them up regularly so they know you're open to talk often
   * Give feedback on their work regularly and do so using [mindful communication](https://github.com/glennsantos/senior-developer-roadmap/blob/main/communication/mindful-communication.md)
 
