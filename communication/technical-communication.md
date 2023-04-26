@@ -4,10 +4,10 @@
 Make technical documents easily accessible and understandable by your target audience, who can be technical or non-technical.
 
 ### Examples of Technical Content You Might Create
-📜 API Documentation
-🔷 Architecture Diagrams
-📒 Technical Training Manuals
-💼 Project Proposals
+📜 API Documentation  
+🔷 Architecture Diagrams  
+📒 Technical Training Manuals  
+💼 Project Proposals  
 
 ### How To Create Better Technical Content
 
@@ -31,13 +31,13 @@ Make technical documents easily accessible and understandable by your target aud
 
 ### Resources for Becoming a Better Technical Communicator
 
-📊 **Presentations**: https://rishad.substack.com/p/re-thinking-presentations
-📜 **Documentation**: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
-🔷 **Diagrams**: https://betterprogramming.pub/a-beginners-guide-to-drawing-technical-diagrams-fb0c97fdbc5e
-💼 **Proposals**: https://www.pandadoc.com/blog/how-to-write-a-technical-proposal/
-🎓 **Technical Articles**: https://thenewstack.io/a-software-developers-guide-to-technical-writing/
-📥 **Pull Requests**: https://www.simplethread.com/writing-tips-for-improving-your-pull-requests/
-🆕 **Microcopy**: https://www.figma.com/file/wbGf7rDEKoyfuxwiRMAu8P/Microcopy.-Complete-UX-Writing-Guide-(Community)?node-id=210-1081&t=niHgibdgpmEEkamk-0
+📊 **Presentations**: https://rishad.substack.com/p/re-thinking-presentations  
+📜 **Documentation**: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/  
+🔷 **Diagrams**: https://betterprogramming.pub/a-beginners-guide-to-drawing-technical-diagrams-fb0c97fdbc5e  
+💼 **Proposals**: https://www.pandadoc.com/blog/how-to-write-a-technical-proposal/  
+🎓 **Technical Articles**: https://thenewstack.io/a-software-developers-guide-to-technical-writing/  
+📥 **Pull Requests**: https://www.simplethread.com/writing-tips-for-improving-your-pull-requests/  
+🆕 **Microcopy**: https://www.figma.com/file/wbGf7rDEKoyfuxwiRMAu8P/Microcopy.-Complete-UX-Writing-Guide-(Community)?node-id=210-1081&t=niHgibdgpmEEkamk-0  
 
 More Resources:
 * https://developers.google.com/tech-writing/resources
