@@ -39,7 +39,7 @@ Make technical documents easily accessible and understandable by your target aud
 📥 **Pull Requests**: https://www.simplethread.com/writing-tips-for-improving-your-pull-requests/  
 🆕 **Microcopy**: https://www.figma.com/file/wbGf7rDEKoyfuxwiRMAu8P/Microcopy.-Complete-UX-Writing-Guide-(Community)?node-id=210-1081&t=niHgibdgpmEEkamk-0  
 
-More Resources:
+**More Resources**:
 * https://developers.google.com/tech-writing/resources
 * https://css-tricks.com/technical-writing-for-developers/
 * https://www.writethedocs.org/
