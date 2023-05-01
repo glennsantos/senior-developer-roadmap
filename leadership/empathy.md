@@ -27,6 +27,7 @@ Warmth is the measure of how likeable or trustworthy you are.
 7. Be forthcoming and open. Reveal you're human and have the same fears and concerns others do. Share something personal during work conversations.
 8. Practice open body language and facial expressions that convey warmth.
 9. Take risks to help people out when they are in trouble.
+10. In conversations, allow the other person to choose the direction of the conversation. Instead of pushing for your own ideas, build upon theirs.
 
 
 **References**:  
